@@ -9,7 +9,7 @@ journey with Frost programming. Currently available for `Linux` (x86_64) and
 
 **Download and Install**
 
-1. Navigate to the [releases page](https://github.com/G0nzal0zz/glados/releases/)
+1. Navigate to the [releases page](https://github.com/G0nzal0zz/frostlang/releases/)
 2. Download the latest version for your operating system
 3. Extract the archive to your preferred location
 4. Add the `frostc` binary to your system's PATH
